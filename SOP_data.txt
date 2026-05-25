@@ -1,0 +1,19 @@
+
+[Store_Network_Down]
+
+1. Ping store gateway
+2.Check for MX status and reboot.
+3. Check Internet modem/WAN1 or WAN2 modems and reboot them.
+4. Escalate to ISP/Vendor Team.
+5.If found issue from ISP update the same in the incidents.
+
+[Store_Setup]
+
+1.Check if it Normal Footlocker store ,Combo Footlocker or Community Flagship ,Champs ,KidsFootlocker store.
+2.Click on Create Network on Meraki dashboard.
+3.Provide Store number with naming convention ,provide template details according to the store types.
+3. Onboard all Network devices :Add MX,MS,MR shared by PRS Team by clicking on add devices
+3. Configure VLANs
+4. Test POS
+4. Verify monitoring alerts
+5. Store sign-off
