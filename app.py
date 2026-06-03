@@ -67,7 +67,7 @@ st.set_page_config(
 
 # -------- SIDEBAR --------
 with st.sidebar:
-    st.header("Foot Locker NOC AI")
+    st.header(" NOC AI By Iram Khan")
 
     st.markdown("""
     **Purpose**
